@@ -5,3 +5,6 @@ version: 1.0
 
 Description: Firstly I have created a html file and take a div class name is main. Inside main I created another div which id name is Clock.
 Then inside script element I have called the clock element using getElementById. Then I decleared a variable named time and called built in javascript object named new Date() then I called the toLocalTimeString inside time fot get the current time. And then created a setInterval function. And inside the setInterval function i have updated the clock output.
+
+
+live updated link:  https://sumonpaul55.github.io/assignment-digital-clock/
