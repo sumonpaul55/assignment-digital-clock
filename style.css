@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  background-color: rgb(35, 35, 64);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+h2 {
+  color: white;
+  margin-bottom: 10px;
+}
+hr {
+  background-color: white;
+  width: 50%;
+  margin-bottom: 50px;
+}
